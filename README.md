@@ -1,17 +1,19 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#f76300;">Swagato Bhattacharya</span></h1>
-<h3 align="center">💻 Full Stack Developer | 🧠 AI/ML Enthusiast | 🌍 Kolkata, India</h3>
+<h3 align="center">💻 Full Stack Web 2.0 Developer | 🧠 AI/ML Enthusiast | 🌍 Kolkata, India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76300&center=true&vCenter=true&width=700&lines=🚀+Engineer+%7C+Creator;💡+AI-powered+Tools+Builder;🌱+Always+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76300&center=true&vCenter=true&width=700&lines=🚀+Engineer+%7C+Full+Stack+Developer;💡+GoLang+Fan+%7C+AI+Explorer;🌱+Building+Web+2.0+Solutions!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🔭 Working on **Bias-Free Resume Analyzer using LLaMA**
-- 🌱 Exploring **LangChain, NLP, Streamlit**
-- 💬 Ask me about **Python, React, MongoDB, Java**
+- 🔭 Currently building **Bias-Free Resume Analyzer with LLaMA & Streamlit**
+- 💼 Passionate about **end-to-end full stack web development**
+- ⚙️ Skilled in **GoLang, React, Node.js, Express, MongoDB**
+- 🌱 Exploring **LangChain, NLP, and scalable backend architecture**
+- 💬 Ask me about **REST APIs, clean code, state management, Go routines**
 - 📫 Reach me at **swagatobhattacharya576@gmail.com**
 - 📍 Based in **Kolkata, India**
 
@@ -20,13 +22,16 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" alt="GoLang"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
@@ -74,14 +79,15 @@
 
 ### ✨ Fun Fact
 
-> 🧠 “I don’t just debug code—I debug logic. I don’t just build apps—I build inclusive solutions.”  
-> 🌍 Let’s innovate together for a better digital world.
+> 🧠 “Go routines are my meditation, and APIs are my canvas. I build with logic, love, and a touch of open source.”  
+> 🌐 Web 2.0 can still be powerful — when it’s done right.
 
 ---
 
 ### 🚀 Support
 
-If you enjoy my work, please ⭐ my repos and follow me for more!  
-Let’s build something amazing together!
+If you like my work, please ⭐ my repositories and follow me.  
+Let’s connect, collaborate, and create something awesome!
 
 ---
+
